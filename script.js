@@ -1,8 +1,8 @@
 
-// TO DO: click on empty div and a text area will appear
+// TO DO: click on empty p and a text area will appear
 
 // Create an event (we need to assume that the divs are already established events.. even if empty, so that we can click on them and edit the text content)
-var createEvent = function(eventText) {
+/* var createEvent = function(eventText) {
     // Create list item to store event text
     var eventLi = $("<li>").addClass("list-group-item");
 
@@ -16,7 +16,7 @@ var createEvent = function(eventText) {
 
     // Append list item to ul
     $("#future").append(eventLi);
-};
+}; */
 
 
 
